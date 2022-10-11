@@ -1,4 +1,9 @@
-# v0.92
+'''
+    Yildiz Rocket Team
+    Ground Station Interface
+
+    Dogukan Yalcin
+'''
 import sys
 import threading
 import time
